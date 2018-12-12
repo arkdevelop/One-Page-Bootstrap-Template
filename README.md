@@ -1,2 +1,2 @@
-# Single-Page Bootstrap Template
+# Single-Page Bootstrap Template [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ac6aec2171ad4b2fbe242ff40c708497)](https://www.codacy.com/app/arkdevelop/Single-Page-Bootstrap-Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arkdevelop/Single-Page-Bootstrap-Template&amp;utm_campaign=Badge_Grade)
 Single-Page Bootstrap template is a responsive website layout developed in <strong>HTML5, CSS3, & Bootstrap 4</strong> to be used as a template page for single-page designs.
