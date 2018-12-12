@@ -1,1 +1,0 @@
-$(document).ready(function(){$("#contactForm").on("submit",function(a){$("#contactModal").modal("show");a.preventDefault()})});
