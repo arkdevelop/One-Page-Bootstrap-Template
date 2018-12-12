@@ -1,1 +1,0 @@
-function regular_map(){var b=new google.maps.LatLng(43.653226,-79.383184),a={center:b,zoom:14};a=new google.maps.Map(document.getElementById("map-container"),a);new google.maps.Marker({position:b,map:a,title:"Toronto"})}google.maps.event.addDomListener(window,"load",regular_map);
